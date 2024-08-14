@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITDeviceManagement", "ITDeviceManagement\ITDeviceManagement.csproj", "{0CB61315-3374-4AB9-9754-3E7D2256042D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB61315-3374-4AB9-9754-3E7D2256042D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB61315-3374-4AB9-9754-3E7D2256042D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB61315-3374-4AB9-9754-3E7D2256042D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB61315-3374-4AB9-9754-3E7D2256042D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D800074-C8B0-4A67-8F48-3FD1B1D8FE83}
+	EndGlobalSection
+EndGlobal
